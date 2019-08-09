@@ -1,0 +1,8 @@
+C:\Users\fabio\Desktop\Projeto FitCard\Sistema_Empresas\Sistema_Empresas\bin\Debug\Sistema_Empresas.exe
+C:\Users\fabio\Desktop\Projeto FitCard\Sistema_Empresas\Sistema_Empresas\bin\Debug\Sistema_Empresas.pdb
+C:\Users\fabio\Desktop\Projeto FitCard\Sistema_Empresas\Sistema_Empresas\obj\x86\Debug\Sistema_Empresas.Properties.Resources.resources
+C:\Users\fabio\Desktop\Projeto FitCard\Sistema_Empresas\Sistema_Empresas\obj\x86\Debug\Sistema_Empresas.csproj.GenerateResource.Cache
+C:\Users\fabio\Desktop\Projeto FitCard\Sistema_Empresas\Sistema_Empresas\obj\x86\Debug\Sistema_Empresas.exe
+C:\Users\fabio\Desktop\Projeto FitCard\Sistema_Empresas\Sistema_Empresas\obj\x86\Debug\Sistema_Empresas.pdb
+C:\Users\fabio\Desktop\Projeto FitCard\Sistema_Empresas\Sistema_Empresas\obj\x86\Debug\Sistema_Empresas.frm_crud.resources
+C:\Users\fabio\Desktop\Projeto FitCard\Sistema_Empresas\Sistema_Empresas\obj\x86\Debug\Sistema_Empresas.csprojResolveAssemblyReference.cache
